@@ -1,6 +1,6 @@
 # / jupyter
 
-Python physics projects for Jupyter, including homework assignments
+Jupyter maths and physics projects for school
 
 ### PHY 2811 Modern Physics I
 * Free particle gaussian wave packet plot
