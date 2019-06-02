@@ -13,7 +13,7 @@ Jupyter maths and physics projects for school
 * Project 3, ODE II: Orbital mechanics of Halley's Comet (Euler-Cromer, Runge-Kutta-4, Adaptive RK4)
 * Project 4, PDE I: Diffusion (FTCS, DuFort-Frankel)
 * Project 5, PDE II: Advection-Diffusion (FTCS, Lax-Wendroff, Upwind, Leap-Frog)
-* Project 6, PDE III: 3D Laplace (FTCS, Gauss-Seidel, Successive Over-Relaxation)
+* Project 6, PDE III: 3D Laplace (Jacobi, Gauss-Seidel, Successive Over-Relaxation)
 
 ### MAT 3100 Intro to Proofs
 * Set relations for fun
